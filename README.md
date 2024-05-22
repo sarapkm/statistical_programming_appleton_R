@@ -1,5 +1,5 @@
 # statistical_programming_appleton_R
-R. Dataset is provided
+Project done in R. Dataset is provided. Statistical analysis and graphing done in order to see trends and relationships between the Total Precipitation (mm) and Surface Water Levels (m) on a daily basis for a year (2012) at Appleton, Ontario, Canada.
 
 ![alt text](https://github.com/sarapkm/statistical_programming_appleton_R/blob/main/graphs/Scatterplot_Date_Vs_Precipitation.PNG?raw=true)
 
