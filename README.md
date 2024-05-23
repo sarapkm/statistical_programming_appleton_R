@@ -11,8 +11,12 @@ This scatterplot illustrates the relationship between time (dates in the year 20
 
 ![alt text](https://github.com/sarapkm/statistical_programming_appleton_R/blob/main/graphs/Scatterplot_Surface_Water_Levels_Vs_Precipitation.PNG?raw=true)
 
+<<<<<<< HEAD
 This scatterplot illustrates the relationship between daily precipitation (measured in millimeters) and surface water levels (measured in meters). Each point on the plot represents a daily observation over the course of 2012 at Appleton, Ontario, Canada. The x-coordinate indicating the amount of precipitation and the y-coordinate indicating the corresponding surface water level. The blue points scattered across the plot indicate the variability in precipitation and its effect on surface water levels. The red line represents the linear regression model fitted to the data, providing insight into the overall trend between precipitation and water levels.
 
 ![alt text](https://github.com/sarapkm/statistical_programming_appleton_R/blob/main/graphs/Statistics_Table.PNG?raw=true)
 
 Table representing statistical analysis between the two variables, surface water levels and precipitation values. 
+=======
+This scatterplot illustrates the relationship between daily precipitation (measured in millimeters) and surface water levels (measured in meters). Each point on the plot represents a daily observation over the course of 2012 at Appleton, Ontario, Canada. The x-coordinate indicating the amount of precipitation and the y-coordinate indicating the corresponding surface water level. The blue points scattered across the plot indicate the variability in precipitation and its effect on surface water levels. The red line represents the linear regression model fitted to the data, providing insight into the overall trend between precipitation and water levels. 
+>>>>>>> c4c07340f5aba52586b025b682c0f871be63e613
